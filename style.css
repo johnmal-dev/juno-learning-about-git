@@ -212,3 +212,7 @@ header {
   color: white;
   min-height: 30vh;
 }
+
+footer {
+  background-color: indianred;
+}
